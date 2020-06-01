@@ -1,0 +1,15 @@
+20180613T080602.593 GMT
+# This file (PegaRULES_Extract_Marker.txt) affects only local caches of Static Content & Lookup lists.
+# If this file is deleted, during the next PegaRULES node startup, the StaticContent & LLC directories are deleted.
+# Under normal conditions, you should not have to delete this file and its presence has no effect on rule resolution.
+buildname=PRPC-7.4.0-185
+builddate=2018-04-11 08.20 EDT
+majorversion=07
+minorversion=40
+maintenanceversion=0
+displayversion=7.4.0
+buildlabel=
+codebuild=coreCode-7.4.0-185
+codesetname=Pega-EngineCode
+codesetversion=07-10-35
+codesetpatchdate=2018-04-11 08.20 EDT
